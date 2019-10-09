@@ -12,7 +12,7 @@ This project is to provide a precise and accurate "rule of thumb" method to pred
 - cleaned.csv: data after preprocessing
 
 ### Code:
-- Data_preprocessing.ipynb: 
+- Data_preprocessing.ipynb
 - Modeling.ipynb: Stepwise procedure using AIC,BIC
 - Diagnostic.ipynb: Robustness check
 - Shiny: code for Shiny
