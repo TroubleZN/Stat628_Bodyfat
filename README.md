@@ -19,6 +19,6 @@ An ipynb file including code for data preprocessing, modeling, diagnosis and shi
 - Robustness Check: QQ plot, Scatterplot, 
 
 ### Link:
-- Shiny app: https://alzfwang.shinyapps.io/application/
+- Shiny app: https://alzfwang.shinyapps.io/bodyfatprediction/
 
 (Due to the limited hour on shinyapp.io, if you can't open this page, please email alzfwang@gmail.com to active this web)
